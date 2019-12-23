@@ -9,6 +9,5 @@ public class Test {
         System.out.println("world");
         System.out.println("girl");
         System.out.println("yingying");
-        System.out.println("girl1");
     }
 }
